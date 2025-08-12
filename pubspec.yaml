@@ -14,8 +14,8 @@ dependencies:
 
   cupertino_icons: ^1.0.8
 
-  flutter_vpn: ^0.13.0
   http: ^1.5.0
+  wireguard_flutter: ^0.1.3
 
 dev_dependencies:
   flutter_test:
